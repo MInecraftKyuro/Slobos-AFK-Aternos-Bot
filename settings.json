@@ -29,10 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 1000,
+      "repeat-delay": 120,
       "messages": [
         "Chan2 Gamay Oten",
-        "Hi Im ZhidoBot",
         "I love MILF!",
         "I like to play Minecraft!"
       ]
