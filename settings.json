@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "UnknownKyuro-ivjl.aternos.me:41505",
+    "ip": "UnknownKyuro-ivjl.aternos.me",
     "port": 41505,
     "version": "",
     "try-creative": false
