@@ -3,23 +3,7 @@ function randomMs(minMs, maxMs) {
 }
 
 function setupLeaveRejoin(bot, createBot) {
-    // Timers
-    let leaveTimer = null
-    let jumpTimer = null
-    let jumpOffTimer = null
-    let reconnectTimer = null
-
-    // State
-    let stopped = false
-    let reconnectAttempts = 0
-    let lastLogAt = 0
-
-    function logThrottled(msg, minGapMs = 2000) {
-        const now = Date.now()
-        if (now - lastLogAt >= minGapMs) {
-            lastLogAt = now
-            console.log(msg)
-        }
+    
     }
 
     function cleanup() {
